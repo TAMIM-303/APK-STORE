@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.facebook.com/mdshahmakhdum.shajon">
-    <img width="65%" alt="Hello, I'm SHAJON. I love coding :)" src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/refs/heads/main/assests/SHAJON.png" />
+    <p align="center"><img src="https://raw.githubusercontent.com/TAMIM-303/APK-STORE/refs/heads/main/Image/Screenshot_2025-01-22-00-03-18.png" />
   </a>
 </p>
 <p align="center"><img src="https://raw.githubusercontent.com/SHAJON-404/SHAJON-404/main/assests/Rainbow.gif" width="100%"></p>
